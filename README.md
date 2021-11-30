@@ -30,6 +30,6 @@ You can configure EdgeKiller using `config.json` file located in the installatio
 |key|default value|meaning|
 |---|---|---|
 |`preffered_browser_path`|`chrome.exe`|Path to the preffered browser|
-|`preffered_search_engine`|`https://www.google.com/?q={}`|Search engine URL with the query parameter changed to `{}`|
+|`preffered_search_engine`|`https://www.google.com/search?q={}`|Search engine URL with the query parameter changed to `{}`|
 
 

@@ -1,4 +1,4 @@
 {
     "preffered_browser_path": "chrome.exe",
-    "preffered_search_engine": "https://www.google.com/?q={}"
+    "preffered_search_engine": "https://www.google.com/search?q={}"
 }
